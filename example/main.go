@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 	"math/rand"
-	"testactor/myqueue"
+	"github.com/progtesttest/myqueue"
 	"sync/atomic"
 )
 
